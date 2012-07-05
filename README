@@ -4,5 +4,5 @@ SimpleGC -- Simple Garbage Collector.
 
 A simple mark-and-sweep garbage collector in C++.
 
-It's actually a bit of a mess right now, but I"m hoping eventually
-I'll get around to fixing it.
+It's actually a bit of a mess right now, but I'm hoping eventually
+I'll get around to finishing it.
